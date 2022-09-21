@@ -1,0 +1,11 @@
+.item{
+    padding: 8px;
+    border-color: white;
+    border: 1px solid grey;
+    margin: 4px;
+}
+
+.item span{
+    color: brown;
+    font-weight: bolder;
+}
